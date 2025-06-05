@@ -27,6 +27,6 @@ where I dive into data, uncover meaningful patterns, create insightful visualiza
 
 
 ### 💬 Contact Me
-I’m always open to new opportunities, collaboration, and contributions in **Data Analytics**! You can reach out to me on [LinkedIn](https://www.linkedin.com/in/annu-sharma06/) or email me at (mailto:w.annu.ms06@gmail.com). Contributions are welcome, whether by submitting issues, suggesting improvements, or sharing ideas. I’d love to connect with you!
+I’m always open to new opportunities, collaboration, and contributions in **Data Analytics**! You can reach out to me on [LinkedIn](https://www.linkedin.com/in/annu-sharma06/) or email me at [w.annu.ms06@gmail.com](mailto:w.annu.ms06@gmail.com). Contributions are welcome, whether by submitting issues, suggesting improvements, or sharing ideas. I’d love to connect with you!
 
 
