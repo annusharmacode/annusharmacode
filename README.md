@@ -1,9 +1,10 @@
 ## Hi there 👋
 I'm Annu Sharma – welcome to my GitHub!
 
-I’m a Postgraduate in Economics with a passion for data-driven decision-making. With a solid foundation in statistics and analytical thinking, I’ve transitioned into the field of Data Analysis, where I dive into data, uncover meaningful patterns, and create insightful visualizations.
+I’m a **Postgraduate in Economics** with a passion for data-driven decision-making. With a solid foundation in **Statistics** and analytical thinking, I’ve transitioned into the field of **Data Science**, 
+where I dive into data, uncover meaningful patterns, create insightful visualizations and build predictive models to drive impactful decisions.
 
-🔍 I love solving real-world problems using tools like Python, SQL, Power BI, and Excel—turning raw data into actionable insights that help businesses make smarter decisions.
+🔍 I am passionate about solving real-world problems by leveraging tools like Python, SQL, Power BI transforming  raw data into actionable insights and building predictive models (e.g., Linear Regression, Decision Trees, SVM, KNN) that help businesses make smarter, data-driven decisions.
 
 ------------------------------------
 
